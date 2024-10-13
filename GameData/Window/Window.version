@@ -1,11 +1,11 @@
 {
   "NAME": "Window",
-  "URL": "https://raw.githubusercontent.com/Halbann/Window/master/GameData/Window/Window.version",
+  "URL": "https://raw.githubusercontent.com/Halbann/Window/main/GameData/Window/Window.version",
   "DOWNLOAD": "https://github.com/Halbann/Window/releases",
   "VERSION": {
     "MAJOR": 1,
     "MINOR": 0,
-    "PATCH": 0,
+    "PATCH": 1,
     "BUILD": 0
   },
   "KSP_VERSION": {
